@@ -19,6 +19,9 @@
     echo "</table>"
 ?>
 
+
+
+註解
 <?php
     error_reporting(0);  // 關閉錯誤顯示，防止顯示程式錯誤資訊
 
