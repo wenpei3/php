@@ -10,6 +10,9 @@
 ?>
 
 
+
+
+註解
 <?php
    # mysqli_connect() 用來建立與資料庫的連線
    $conn = mysqli_connect("db4free.net", "immust", "immustimmust", "immust");
