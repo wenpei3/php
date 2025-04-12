@@ -10,6 +10,8 @@
 ?>
 
 
+
+註解
 <?php
     session_start();  // 啟動會話，開始使用 PHP session 來儲存資料
 
