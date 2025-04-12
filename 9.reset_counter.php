@@ -6,6 +6,8 @@
 
 ?>
 
+
+註解
 <?php
     session_start();  // 啟動會話，開始使用 PHP 會話管理
 
