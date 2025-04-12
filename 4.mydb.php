@@ -10,8 +10,11 @@
     echo $row["id"] . " " . $row["pwd"];
 ?>
 
+
+
+註解
 <?php
-    # mysqli_connect() 用來建立與資料庫的連線
+    # mysqli_connect() 建立與資料庫的連結
     $conn = mysqli_connect("db4free.net", "immust", "immustimmust", "immust");
     // 參數說明：
     // "db4free.net" 這是資料庫伺服器的地址
