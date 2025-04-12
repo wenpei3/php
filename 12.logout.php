@@ -6,6 +6,8 @@
 
 ?>
 
+
+註解
 <?php
     // 啟動會話，這樣可以存取 session 變數
     session_start();
